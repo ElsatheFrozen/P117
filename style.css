@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+#your_sketch{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+#confidence{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+#sketch_to_be_drawn{
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+h1{
+    background-color:papayawhip;
+}
+#show_sketch{
+    float: right;
+}
+#score{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    float: right;
+    margin-right: 20px;
+}
